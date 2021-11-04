@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Pawel Wroblewski
+MAINTAINER makimovsky
 
 ENV PYTHONUNBUFFERED 1
 
